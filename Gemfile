@@ -6,7 +6,7 @@ gem 'haml'
 gem 'devise'
 gem 'simple_form'
 gem 'mailboxer', git: 'git://github.com/dickeytk/mailboxer'
-gem 'carrierwave'
+gem 'carrierwave', '>= 2.2.5'
 gem "jquery-rails"
 gem 'coffee-rails'
 gem 'sass-rails'
