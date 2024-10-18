@@ -9,7 +9,7 @@ gem 'mailboxer', git: 'git://github.com/dickeytk/mailboxer'
 gem 'carrierwave'
 gem "jquery-rails"
 gem 'coffee-rails'
-gem 'sass-rails'
+gem 'sass-rails', '>= 6.0.0'
 gem 'sunspot_rails'
 
 group :development, :test do
